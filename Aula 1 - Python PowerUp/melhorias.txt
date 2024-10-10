@@ -1,0 +1,7 @@
+colocar os dados em um arquivo separado
+
+navegador
+endereco
+usuario
+senha (codificada)
+path
