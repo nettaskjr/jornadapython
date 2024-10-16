@@ -5,3 +5,4 @@ endereco
 usuario
 senha (codificada)
 path
+usar uma versao portable do app
