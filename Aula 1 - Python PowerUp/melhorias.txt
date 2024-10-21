@@ -4,6 +4,5 @@ navegador
 endereco
 usuario
 senha (codificada)
-path
-usar uma versao portable do app
-teste
+endereco absoluto
+usar uma versao portable do navegador
